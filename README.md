@@ -1,6 +1,6 @@
-## Olá!!! Eu sou o Henrique Sebastião
+# Olá!!! Eu sou o Henrique Sebastião
 
-Comece por aqui irmão(ã):
+Comece por aqui:
 
 🔭 &#160; Atualmente trabalho como técnico de telecomunicações. <br>
 📖 &#160; Atualmente estou aprendendo desenvolvimento web. <br>
