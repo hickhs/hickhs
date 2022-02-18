@@ -1,24 +1,32 @@
-## Olá!!! Eu sou o Henrique Sebastião
+## Hi! I'm Henrique Sebastião
+### Welcome to my GitHub profile!
 
-Comece por aqui:
+Start here:
 
-🔭 &#160; Atualmente trabalho como técnico de telecomunicações. <br>
-📖 &#160; Atualmente estou aprendendo mais sobre Mikrotik. <br>
-💡 &#160; Procuro colaborar em redes. <br>
-💬 &#160; Pergunte-me sobre: Mikrotik, redes wireless, telecomunicações. <br>
-📫 &#160; Como entrar em contato comigo: henriquesebastiao.web@gmail.com <br>
-😄 &#160; Pronomes: ele / dele <br>
-⚡ &#160; Curiosidade: Não tenho vergonha de não saber nadar, eu tenho é ódio. <br>
-<br>
+<div>
+  <img align="right" alt="Hick-GIF" height="150" style="border-radius:50px;" src="https://acegif.com/wp-content/uploads/cat-typing-12.gif">
+</div>
+
+🔭 &#160; I currently work as a <b>telecommunications technician.</b> <br>
+📖 &#160; I am currently learning more about Mikrotik. <br>
+💬 &#160; Ask me about: Mikrotik, wireless networks, telecommunications. <br>
+📫 &#160; How to contact me: henriquesebastiao.web@gmail.com <br>
+😄 &#160; Pronouns: he / his <br>
+⚡ &#160; Curiosity: I'm not ashamed of not knowing how to swim, I have hate. <br>
+
 <div>
   <a href="https://github.com/hickhs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hickhs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hickhs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"></a>
 </div>
+ 
 <div style="display: inline_block"><br>
+  <h4>Skills and Tools:</h4>
   <img align="center" alt="Hick-C" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Hick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hick-VSCode" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Hick-Ubuntu" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="Hick-Putty" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
 </div>
   
   ##
