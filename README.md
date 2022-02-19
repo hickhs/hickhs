@@ -4,7 +4,7 @@
 ##### Start here:
 
 <div>
-  <img align="right" alt="Hick-GIF" height="150" style="border-radius:50px;" src="https://acegif.com/wp-content/uploads/cat-typing-12.gif">
+  <img align="right" alt="Hick-GIF" width="150" style="border-radius:50px" src="https://acegif.com/wp-content/uploads/cat-typing-12.gif">
 </div>
 
 🔭 &#160; I currently work as a <b>telecommunications technician</b>. <br>
