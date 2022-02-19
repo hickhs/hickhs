@@ -1,11 +1,10 @@
 ## Hi! I'm Henrique Sebastião
-### Welcome to my GitHub profile!
-
-##### Start here:
-
 <div>
   <img align="right" alt="Hick-GIF" width="150" style="border-radius:50px" src="https://acegif.com/wp-content/uploads/cat-typing-12.gif">
 </div>
+<h3>Welcome to my GitHub profile!</h3>
+
+##### Start here:
 
 🔭 &#160; I currently work as a <b>telecommunications technician</b>. <br>
 📖 &#160; I am currently learning more about Mikrotik. <br>
