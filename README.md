@@ -7,7 +7,7 @@
 </div>
 
 🔭 &#160; I currently work as a <b>telecommunications technician</b>. <br>
-📖 &#160; I am currently learning more about Mikrotik. <br>
+📖 &#160; I am currently learning more about Python and C. <br>
 💬 &#160; Ask me about: Mikrotik, wireless networks, telecommunications. <br>
 📫 &#160; How to contact me: henriquesebastiao.web@gmail.com <br>
 😄 &#160; Pronouns: he / his <br>
