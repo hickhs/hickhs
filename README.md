@@ -22,6 +22,7 @@
 <div style="display: inline_block"><br>
   <h4>Skills and Tools:</h4>
   <img align="center" alt="Hick-C" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Hick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Hick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hick-VSCode" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
