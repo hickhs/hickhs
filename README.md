@@ -24,7 +24,6 @@
   <img align="center" alt="Hick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hick-VSCode" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Hick-Ubuntu" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="Hick-Putty" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
 </div>
 
   ##
