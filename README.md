@@ -6,7 +6,7 @@
 🔭 &#160; I currently work as a <b>telecommunications technician</b>. <br>
 📖 &#160; I am currently learning more about Back-End and Front-End. <br>
 💬 &#160; Ask me about: Mikrotik, wireless networks, telecommunications. <br>
-📫 &#160; How to contact me: henriquesebastiao.web@gmail.com <br>
+📫 &#160; How to contact me: henriquesebastiao@onionmail.com <br>
 😄 &#160; Pronouns: he / his <br>
 ⚡ &#160; Curiosity: I'm not ashamed of not knowing how to swim, I have hate. <br>
 
