@@ -27,6 +27,7 @@
   <img align="center" alt="Hick-VSCode" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Hick-Figma" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Hick-Debian" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
+  <img align="center" alt="Hick-Mikrotik" height="30" width="40" src = "https://mikrotik.com/img/mtv2/safari-pinned-tab.svg">
   <img align="center" alt="Hick-RaspberryPI" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
 </div>
 <!---
