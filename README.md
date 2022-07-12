@@ -25,16 +25,14 @@
   <img align="center" alt="Hick-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Hick-NodeJS" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Hick-VSCode" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Hick-Ubuntu" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="Hick-Figma" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Hick-Debian" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
+  <img align="center" alt="Hick-RaspberryPI" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
 </div>
 
   ##
   
   <div>
-    <a href="https://www.instagram.com/hick.hs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/hick_hs" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-    <a href="https://www.reddit.com/user/hick_hs" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
     <a href = "mailto:henriquesebastiao.web@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/henrique-sebasti%C3%A3o-b7a39821a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/henrique-sebasti%C3%A3o-b7a39821a/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" target="_blank"></a>
   </div>
