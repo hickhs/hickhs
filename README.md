@@ -17,6 +17,7 @@
 </div>
  
 <div style="display: inline_block"><br>
+<a href="https://github.com/hickhs">
   <h4>Skills and Tools:</h4>
   <img align="center" alt="Hick-C" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Hick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
