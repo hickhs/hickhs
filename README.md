@@ -4,7 +4,7 @@
 ##### Start here:
 
 🔭 &#160; I currently work as a <b>telecommunications technician</b>. <br>
-📖 &#160; I am currently learning more about Python and C. <br>
+📖 &#160; I am currently learning more about Back-End and Front-End. <br>
 💬 &#160; Ask me about: Mikrotik, wireless networks, telecommunications. <br>
 📫 &#160; How to contact me: henriquesebastiao.web@gmail.com <br>
 😄 &#160; Pronouns: he / his <br>
@@ -29,10 +29,11 @@
   <img align="center" alt="Hick-Debian" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
   <img align="center" alt="Hick-RaspberryPI" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
 </div>
-
+<!---
   ##
   
   <div>
     <a href = "mailto:henriquesebastiao.web@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/henrique-sebasti%C3%A3o-b7a39821a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+-->
