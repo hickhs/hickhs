@@ -11,13 +11,13 @@
 ⚡ &#160; Curiosity: I'm not ashamed of not knowing how to swim, I have hate. <br>
 
 <div>
-  <a href="https://github.com/hickhs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hickhs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+  <a href="https://github.com/henriquesebastiao">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriquesebastiao&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hickhs&layout=compact&langs_count=7&theme=github_dark"/></a>
 </div>
  
 <div style="display: inline_block"><br>
-<a href="https://github.com/hickhs">
+<a href="https://github.com/henriquesebastiao">
   <h4>Skills and Tools:</h4>
   <img align="center" alt="Hick-C" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Hick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
